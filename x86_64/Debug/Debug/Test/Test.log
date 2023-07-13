@@ -1,0 +1,136 @@
+﻿  DefaultLevel.cpp
+  Player.cpp
+  TestApplication.cpp
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\engine\DynamicsWorld.h(387,31): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data (compiling source file src\Player.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\engine\DynamicsWorld.h(395,26): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data (compiling source file src\Player.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\HalfEdgeStructure.h(135,32): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data (compiling source file src\Player.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\shapes\HeightFieldShape.h(256,104): warning C4244: 'return': conversion from 'double' to 'reactphysics3d::decimal', possible loss of data (compiling source file src\Player.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\shapes\HeightFieldShape.h(264,19): warning C4244: 'return': conversion from 'reactphysics3d::decimal' to 'int', possible loss of data (compiling source file src\Player.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\TriangleMesh.h(95,34): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data (compiling source file src\Player.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\engine\DynamicsWorld.h(387,31): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data (compiling source file src\TestApplication.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\engine\DynamicsWorld.h(387,31): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data (compiling source file src\DefaultLevel.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\engine\DynamicsWorld.h(395,26): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data (compiling source file src\TestApplication.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\engine\DynamicsWorld.h(395,26): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data (compiling source file src\DefaultLevel.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\HalfEdgeStructure.h(135,32): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data (compiling source file src\TestApplication.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\HalfEdgeStructure.h(135,32): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data (compiling source file src\DefaultLevel.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\shapes\HeightFieldShape.h(256,104): warning C4244: 'return': conversion from 'double' to 'reactphysics3d::decimal', possible loss of data (compiling source file src\DefaultLevel.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\shapes\HeightFieldShape.h(256,104): warning C4244: 'return': conversion from 'double' to 'reactphysics3d::decimal', possible loss of data (compiling source file src\TestApplication.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\shapes\HeightFieldShape.h(264,19): warning C4244: 'return': conversion from 'reactphysics3d::decimal' to 'int', possible loss of data (compiling source file src\DefaultLevel.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\shapes\HeightFieldShape.h(264,19): warning C4244: 'return': conversion from 'reactphysics3d::decimal' to 'int', possible loss of data (compiling source file src\TestApplication.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\TriangleMesh.h(95,34): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data (compiling source file src\DefaultLevel.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\TriangleMesh.h(95,34): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data (compiling source file src\TestApplication.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\ShadowEngine\src\core\Level.h(18,1): warning C4305: 'argument': truncation from 'double' to 'reactphysics3d::decimal' (compiling source file src\TestApplication.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\ShadowEngine\src\core\Level.h(18,1): warning C4305: 'argument': truncation from 'double' to 'reactphysics3d::decimal' (compiling source file src\DefaultLevel.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition (compiling source file src\TestApplication.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\GLFW\include\GLFW\glfw3.h(98): message : see previous definition of 'APIENTRY' (compiling source file src\TestApplication.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\containers\Set.h(502,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\DefaultLevel.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\containers\Set.h(449): message : while compiling class template member function 'void reactphysics3d::Set<reactphysics3d::bodyindexpair>::add(const V &)'
+          with
+          [
+              V=reactphysics3d::bodyindexpair
+          ] (compiling source file src\DefaultLevel.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\CollisionDetection.h(265): message : see reference to function template instantiation 'void reactphysics3d::Set<reactphysics3d::bodyindexpair>::add(const V &)' being compiled
+          with
+          [
+              V=reactphysics3d::bodyindexpair
+          ] (compiling source file src\DefaultLevel.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\CollisionDetection.h(89): message : see reference to class template instantiation 'reactphysics3d::Set<reactphysics3d::bodyindexpair>' being compiled (compiling source file src\DefaultLevel.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(3571,1): warning C4005: 'MOD_ALT': macro redefinition (compiling source file src\Player.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\ShadowEngine\src\core\KeyCodes.h(157): message : see previous definition of 'MOD_ALT' (compiling source file src\Player.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(3573,1): warning C4005: 'MOD_SHIFT': macro redefinition (compiling source file src\Player.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\ShadowEngine\src\core\KeyCodes.h(147): message : see previous definition of 'MOD_SHIFT' (compiling source file src\Player.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\ShadowEngine\src\core\KeyCodes.h(147,1): warning C4005: 'MOD_SHIFT': macro redefinition (compiling source file src\TestApplication.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(3573): message : see previous definition of 'MOD_SHIFT' (compiling source file src\TestApplication.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\ShadowEngine\src\core\KeyCodes.h(157,1): warning C4005: 'MOD_ALT': macro redefinition (compiling source file src\TestApplication.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(3571): message : see previous definition of 'MOD_ALT' (compiling source file src\TestApplication.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\ShadowEngine\src\core\Camera.h(4,1): warning C4005: 'NEAR': macro redefinition (compiling source file src\TestApplication.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(151): message : see previous definition of 'NEAR' (compiling source file src\TestApplication.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\ShadowEngine\src\core\Camera.h(5,1): warning C4005: 'FAR': macro redefinition (compiling source file src\TestApplication.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(150): message : see previous definition of 'FAR' (compiling source file src\TestApplication.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\containers\Set.h(502,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\Player.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\containers\Set.h(449): message : while compiling class template member function 'void reactphysics3d::Set<reactphysics3d::bodyindexpair>::add(const V &)'
+          with
+          [
+              V=reactphysics3d::bodyindexpair
+          ] (compiling source file src\Player.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\CollisionDetection.h(265): message : see reference to function template instantiation 'void reactphysics3d::Set<reactphysics3d::bodyindexpair>::add(const V &)' being compiled
+          with
+          [
+              V=reactphysics3d::bodyindexpair
+          ] (compiling source file src\Player.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\CollisionDetection.h(89): message : see reference to class template instantiation 'reactphysics3d::Set<reactphysics3d::bodyindexpair>' being compiled (compiling source file src\Player.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\containers\Set.h(502,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\TestApplication.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\containers\Set.h(449): message : while compiling class template member function 'void reactphysics3d::Set<reactphysics3d::bodyindexpair>::add(const V &)'
+          with
+          [
+              V=reactphysics3d::bodyindexpair
+          ] (compiling source file src\TestApplication.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\CollisionDetection.h(265): message : see reference to function template instantiation 'void reactphysics3d::Set<reactphysics3d::bodyindexpair>::add(const V &)' being compiled
+          with
+          [
+              V=reactphysics3d::bodyindexpair
+          ] (compiling source file src\TestApplication.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\CollisionDetection.h(89): message : see reference to class template instantiation 'reactphysics3d::Set<reactphysics3d::bodyindexpair>' being compiled (compiling source file src\TestApplication.cpp)
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+ShadowEngine.lib(imgui_widgets.obj) : warning LNK4099: PDB 'ImGui.pdb' was not found with 'ShadowEngine.lib(imgui_widgets.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\ImGui.pdb'; linking object as if no debug info
+ShadowEngine.lib(imgui_draw.obj) : warning LNK4099: PDB 'ImGui.pdb' was not found with 'ShadowEngine.lib(imgui_draw.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\ImGui.pdb'; linking object as if no debug info
+ShadowEngine.lib(imgui.obj) : warning LNK4099: PDB 'ImGui.pdb' was not found with 'ShadowEngine.lib(imgui.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\ImGui.pdb'; linking object as if no debug info
+ShadowEngine.lib(MemoryManager.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(MemoryManager.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(DefaultSingleFrameAllocator.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(DefaultSingleFrameAllocator.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(DefaultPoolAllocator.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(DefaultPoolAllocator.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(Vector3.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(Vector3.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(Quaternion.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(Quaternion.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(Matrix3x3.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(Matrix3x3.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(Matrix2x2.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(Matrix2x2.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(mathematics_functions.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(mathematics_functions.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(CollisionCallback.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(CollisionCallback.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(OverlappingPair.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(OverlappingPair.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(Material.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(Material.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(Island.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(Island.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(DynamicsWorld.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(DynamicsWorld.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(ContactSolver.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(ContactSolver.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(ConstraintSolver.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(ConstraintSolver.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(CollisionWorld.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(CollisionWorld.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(SliderJoint.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(SliderJoint.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(Joint.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(Joint.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(HingeJoint.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(HingeJoint.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(FixedJoint.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(FixedJoint.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(ContactPoint.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(ContactPoint.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(BallAndSocketJoint.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(BallAndSocketJoint.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(MiddlePhaseTriangleCallback.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(MiddlePhaseTriangleCallback.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(ContactManifoldSet.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(ContactManifoldSet.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(ContactManifold.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(ContactManifold.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(NarrowPhaseInfo.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(NarrowPhaseInfo.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(CollisionDetection.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(CollisionDetection.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(HalfEdgeStructure.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(HalfEdgeStructure.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(ProxyShape.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(ProxyShape.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(RaycastInfo.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(RaycastInfo.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(TriangleShape.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(TriangleShape.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(CollisionShape.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(CollisionShape.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(BoxShape.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(BoxShape.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(ConvexPolyhedronShape.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(ConvexPolyhedronShape.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(ConvexShape.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(ConvexShape.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(AABB.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(AABB.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(ConvexPolyhedronVsConvexPolyhedronAlgorithm.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(ConvexPolyhedronVsConvexPolyhedronAlgorithm.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(CapsuleVsConvexPolyhedronAlgorithm.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(CapsuleVsConvexPolyhedronAlgorithm.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(SphereVsConvexPolyhedronAlgorithm.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(SphereVsConvexPolyhedronAlgorithm.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(SphereVsCapsuleAlgorithm.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(SphereVsCapsuleAlgorithm.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(CapsuleVsCapsuleAlgorithm.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(CapsuleVsCapsuleAlgorithm.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(SphereVsSphereAlgorithm.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(SphereVsSphereAlgorithm.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(SATAlgorithm.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(SATAlgorithm.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(GJKAlgorithm.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(GJKAlgorithm.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(VoronoiSimplex.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(VoronoiSimplex.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(DefaultCollisionDispatch.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(DefaultCollisionDispatch.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(DynamicAABBTree.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(DynamicAABBTree.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(BroadPhaseAlgorithm.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(BroadPhaseAlgorithm.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(ContactManifoldInfo.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(ContactManifoldInfo.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(RigidBody.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(RigidBody.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(CollisionBody.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(CollisionBody.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(Body.obj) : warning LNK4099: PDB 'reactphysics3d.pdb' was not found with 'ShadowEngine.lib(Body.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\reactphysics3d.pdb'; linking object as if no debug info
+ShadowEngine.lib(stb_image_aug.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'ShadowEngine.lib(stb_image_aug.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\SOIL.pdb'; linking object as if no debug info
+ShadowEngine.lib(SOIL.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'ShadowEngine.lib(SOIL.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\SOIL.pdb'; linking object as if no debug info
+ShadowEngine.lib(image_helper.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'ShadowEngine.lib(image_helper.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\SOIL.pdb'; linking object as if no debug info
+ShadowEngine.lib(image_DXT.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'ShadowEngine.lib(image_DXT.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\SOIL.pdb'; linking object as if no debug info
+ShadowEngine.lib(glew.obj) : warning LNK4099: PDB 'glew_s.pdb' was not found with 'ShadowEngine.lib(glew.obj)' or at 'C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\glew_s.pdb'; linking object as if no debug info
+  Test.vcxproj -> C:\Users\rbr\source\repos\ShadowEngine\Test\..\x86_64\Debug\Test.exe

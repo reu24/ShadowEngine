@@ -1,0 +1,141 @@
+﻿  ImGuiWrapper.cpp
+  Application.cpp
+  Camera.cpp
+  Cube.cpp
+  Cubemap.cpp
+  Model.cpp
+  Mesh.cpp
+  Renderer.cpp
+  Shadow.cpp
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\engine\DynamicsWorld.h(387,31): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data (compiling source file src\core\Cube.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\engine\DynamicsWorld.h(395,26): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data (compiling source file src\core\Cube.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\HalfEdgeStructure.h(135,32): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data (compiling source file src\core\Cube.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\ShadowEngine\src\graphics\Mesh.cpp(60,66): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition (compiling source file src\graphics\Renderer.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\GLFW\include\GLFW\glfw3.h(98): message : see previous definition of 'APIENTRY' (compiling source file src\graphics\Renderer.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\shapes\HeightFieldShape.h(256,104): warning C4244: 'return': conversion from 'double' to 'reactphysics3d::decimal', possible loss of data (compiling source file src\core\Cube.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\shapes\HeightFieldShape.h(264,19): warning C4244: 'return': conversion from 'reactphysics3d::decimal' to 'int', possible loss of data (compiling source file src\core\Cube.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\TriangleMesh.h(95,34): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data (compiling source file src\core\Cube.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\engine\DynamicsWorld.h(387,31): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data (compiling source file src\core\Application.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\engine\DynamicsWorld.h(395,26): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data (compiling source file src\core\Application.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\HalfEdgeStructure.h(135,32): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data (compiling source file src\core\Application.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\shapes\HeightFieldShape.h(256,104): warning C4244: 'return': conversion from 'double' to 'reactphysics3d::decimal', possible loss of data (compiling source file src\core\Application.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\shapes\HeightFieldShape.h(264,19): warning C4244: 'return': conversion from 'reactphysics3d::decimal' to 'int', possible loss of data (compiling source file src\core\Application.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\TriangleMesh.h(95,34): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data (compiling source file src\core\Application.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\ShadowEngine\src\core\Level.h(18,1): warning C4305: 'argument': truncation from 'double' to 'reactphysics3d::decimal' (compiling source file src\core\Application.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition (compiling source file src\core\Cube.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\GLFW\include\GLFW\glfw3.h(98): message : see previous definition of 'APIENTRY' (compiling source file src\core\Cube.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition (compiling source file src\core\Application.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\GLFW\include\GLFW\glfw3.h(98): message : see previous definition of 'APIENTRY' (compiling source file src\core\Application.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\engine\DynamicsWorld.h(387,31): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data (compiling source file src\core\Model.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\engine\DynamicsWorld.h(395,26): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data (compiling source file src\core\Model.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\HalfEdgeStructure.h(135,32): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data (compiling source file src\core\Model.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\shapes\HeightFieldShape.h(256,104): warning C4244: 'return': conversion from 'double' to 'reactphysics3d::decimal', possible loss of data (compiling source file src\core\Model.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\shapes\HeightFieldShape.h(264,19): warning C4244: 'return': conversion from 'reactphysics3d::decimal' to 'int', possible loss of data (compiling source file src\core\Model.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\TriangleMesh.h(95,34): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data (compiling source file src\core\Model.cpp)
+  Texture2D.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition (compiling source file src\core\Model.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\GLFW\include\GLFW\glfw3.h(98): message : see previous definition of 'APIENTRY' (compiling source file src\core\Model.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\ShadowEngine\src\ImGui\ImGuiWrapper.cpp(19,20): warning C4305: '=': truncation from 'double' to 'float'
+  VertexArray.cpp
+C:\Users\rbr\source\repos\ShadowEngine\ShadowEngine\src\core\KeyCodes.h(147,1): warning C4005: 'MOD_SHIFT': macro redefinition (compiling source file src\core\Application.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(3573): message : see previous definition of 'MOD_SHIFT' (compiling source file src\core\Application.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\ShadowEngine\src\core\KeyCodes.h(157,1): warning C4005: 'MOD_ALT': macro redefinition (compiling source file src\core\Application.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(3571): message : see previous definition of 'MOD_ALT' (compiling source file src\core\Application.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\ShadowEngine\src\core\Camera.h(4,1): warning C4005: 'NEAR': macro redefinition (compiling source file src\core\Application.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(151): message : see previous definition of 'NEAR' (compiling source file src\core\Application.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\ShadowEngine\src\core\Camera.h(5,1): warning C4005: 'FAR': macro redefinition (compiling source file src\core\Application.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(150): message : see previous definition of 'FAR' (compiling source file src\core\Application.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\ShadowEngine\src\core\Camera.h(4,1): warning C4005: 'NEAR': macro redefinition (compiling source file src\core\Cube.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(151): message : see previous definition of 'NEAR' (compiling source file src\core\Cube.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\ShadowEngine\src\core\Camera.h(5,1): warning C4005: 'FAR': macro redefinition (compiling source file src\core\Cube.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(150): message : see previous definition of 'FAR' (compiling source file src\core\Cube.cpp)
+  Window.cpp
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\containers\Set.h(502,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\core\Cube.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\containers\Set.h(449): message : while compiling class template member function 'void reactphysics3d::Set<reactphysics3d::bodyindexpair>::add(const V &)'
+          with
+          [
+              V=reactphysics3d::bodyindexpair
+          ] (compiling source file src\core\Cube.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\containers\Set.h(502,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\core\Application.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\containers\Set.h(449): message : while compiling class template member function 'void reactphysics3d::Set<reactphysics3d::bodyindexpair>::add(const V &)'
+          with
+          [
+              V=reactphysics3d::bodyindexpair
+          ] (compiling source file src\core\Application.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\CollisionDetection.h(265): message : see reference to function template instantiation 'void reactphysics3d::Set<reactphysics3d::bodyindexpair>::add(const V &)' being compiled
+          with
+          [
+              V=reactphysics3d::bodyindexpair
+          ] (compiling source file src\core\Cube.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\CollisionDetection.h(265): message : see reference to function template instantiation 'void reactphysics3d::Set<reactphysics3d::bodyindexpair>::add(const V &)' being compiled
+          with
+          [
+              V=reactphysics3d::bodyindexpair
+          ] (compiling source file src\core\Application.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\CollisionDetection.h(89): message : see reference to class template instantiation 'reactphysics3d::Set<reactphysics3d::bodyindexpair>' being compiled (compiling source file src\core\Cube.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\CollisionDetection.h(89): message : see reference to class template instantiation 'reactphysics3d::Set<reactphysics3d::bodyindexpair>' being compiled (compiling source file src\core\Application.cpp)
+  Text.cpp
+C:\Users\rbr\source\repos\ShadowEngine\ShadowEngine\src\core\Model.cpp(287,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rbr\source\repos\ShadowEngine\ShadowEngine\src\core\Model.cpp(298,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rbr\source\repos\ShadowEngine\ShadowEngine\src\core\Model.cpp(724,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rbr\source\repos\ShadowEngine\ShadowEngine\src\core\Model.cpp(732,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\containers\Set.h(502,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\core\Model.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\containers\Set.h(449): message : while compiling class template member function 'void reactphysics3d::Set<reactphysics3d::bodyindexpair>::add(const V &)'
+          with
+          [
+              V=reactphysics3d::bodyindexpair
+          ] (compiling source file src\core\Model.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\CollisionDetection.h(265): message : see reference to function template instantiation 'void reactphysics3d::Set<reactphysics3d::bodyindexpair>::add(const V &)' being compiled
+          with
+          [
+              V=reactphysics3d::bodyindexpair
+          ] (compiling source file src\core\Model.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\CollisionDetection.h(89): message : see reference to class template instantiation 'reactphysics3d::Set<reactphysics3d::bodyindexpair>' being compiled (compiling source file src\core\Model.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\ShadowEngine\src\ui\Text.cpp(23,72): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=glm::i32
+          ]
+C:\Users\rbr\source\repos\ShadowEngine\ShadowEngine\src\ui\Text.cpp(23,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=glm::i32
+          ]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition (compiling source file src\graphics\Window.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\deps\GLFW\include\GLFW\glfw3.h(98): message : see previous definition of 'APIENTRY' (compiling source file src\graphics\Window.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\ShadowEngine\src\core\KeyCodes.h(147,1): warning C4005: 'MOD_SHIFT': macro redefinition (compiling source file src\graphics\Window.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(3573): message : see previous definition of 'MOD_SHIFT' (compiling source file src\graphics\Window.cpp)
+C:\Users\rbr\source\repos\ShadowEngine\ShadowEngine\src\core\KeyCodes.h(157,1): warning C4005: 'MOD_ALT': macro redefinition (compiling source file src\graphics\Window.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(3571): message : see previous definition of 'MOD_ALT' (compiling source file src\graphics\Window.cpp)
+opengl32.lib(OPENGL32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in assimp.lib(assimp.dll); second definition ignored
+Model.obj : warning LNK4006: "public: struct aiScene const * __cdecl Assimp::Importer::ReadFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,unsigned int)" (?ReadFile@Importer@Assimp@@QEAAPEBUaiScene@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@I@Z) already defined in assimp.lib(assimp.dll); second definition ignored
+Model.obj : warning LNK4006: "public: unsigned int __cdecl aiMaterial::GetTextureCount(enum aiTextureType)const " (?GetTextureCount@aiMaterial@@QEBAIW4aiTextureType@@@Z) already defined in assimp.lib(assimp.dll); second definition ignored
+Model.obj : warning LNK4006: "public: enum aiReturn __cdecl aiMaterial::GetTexture(enum aiTextureType,unsigned int,struct aiString *,enum aiTextureMapping *,unsigned int *,float *,enum aiTextureOp *,enum aiTextureMapMode *)const " (?GetTexture@aiMaterial@@QEBA?AW4aiReturn@@W4aiTextureType@@IPEAUaiString@@PEAW4aiTextureMapping@@PEAIPEAMPEAW4aiTextureOp@@PEAW4aiTextureMapMode@@@Z) already defined in assimp.lib(assimp.dll); second definition ignored
+Camera.obj : warning LNK4006: "private: static struct glm::vec<3,float,0> Camera::mPos" (?mPos@Camera@@0U?$vec@$02M$0A@@glm@@A) already defined in Shadow.obj; second definition ignored
+Camera.obj : warning LNK4006: "private: static struct glm::vec<2,float,0> Camera::mRotation" (?mRotation@Camera@@0U?$vec@$01M$0A@@glm@@A) already defined in Shadow.obj; second definition ignored
+Camera.obj : warning LNK4006: "private: static float Camera::mFov" (?mFov@Camera@@0MA) already defined in Shadow.obj; second definition ignored
+Camera.obj : warning LNK4006: "private: static bool Camera::mLocked" (?mLocked@Camera@@0_NA) already defined in Shadow.obj; second definition ignored
+Camera.obj : warning LNK4006: "private: static struct glm::mat<4,4,float,0> Camera::mView" (?mView@Camera@@0U?$mat@$03$03M$0A@@glm@@A) already defined in Shadow.obj; second definition ignored
+Camera.obj : warning LNK4006: "private: static struct glm::mat<4,4,float,0> Camera::mProjection" (?mProjection@Camera@@0U?$mat@$03$03M$0A@@glm@@A) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "public: static void __cdecl Camera::init(void)" (?init@Camera@@SAXXZ) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "public: static void __cdecl Camera::setPos(struct glm::vec<3,float,0> const &)" (?setPos@Camera@@SAXAEBU?$vec@$02M$0A@@glm@@@Z) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "public: static void __cdecl Camera::changePos(struct glm::vec<3,float,0>)" (?changePos@Camera@@SAXU?$vec@$02M$0A@@glm@@@Z) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "public: static struct glm::vec<3,float,0> __cdecl Camera::getPos(void)" (?getPos@Camera@@SA?AU?$vec@$02M$0A@@glm@@XZ) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "public: static void __cdecl Camera::setRotation(struct glm::vec<2,float,0> const &)" (?setRotation@Camera@@SAXAEBU?$vec@$01M$0A@@glm@@@Z) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "public: static void __cdecl Camera::changeRotation(struct glm::vec<2,float,0>)" (?changeRotation@Camera@@SAXU?$vec@$01M$0A@@glm@@@Z) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "public: static struct glm::vec<2,float,0> __cdecl Camera::getRotation(void)" (?getRotation@Camera@@SA?AU?$vec@$01M$0A@@glm@@XZ) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "public: static void __cdecl Camera::setFOV(float)" (?setFOV@Camera@@SAXM@Z) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "public: static float __cdecl Camera::getFOV(void)" (?getFOV@Camera@@SAMXZ) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "public: static void __cdecl Camera::setLocked(bool)" (?setLocked@Camera@@SAX_N@Z) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "public: static bool __cdecl Camera::getLocked(void)" (?getLocked@Camera@@SA_NXZ) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "public: static struct glm::vec<3,float,0> __cdecl Camera::getForwardsVector(void)" (?getForwardsVector@Camera@@SA?AU?$vec@$02M$0A@@glm@@XZ) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "public: static struct glm::vec<3,float,0> __cdecl Camera::getRightVector(void)" (?getRightVector@Camera@@SA?AU?$vec@$02M$0A@@glm@@XZ) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "public: static struct glm::vec<3,float,0> __cdecl Camera::getUpVector(void)" (?getUpVector@Camera@@SA?AU?$vec@$02M$0A@@glm@@XZ) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "public: static struct glm::mat<4,4,float,0> const & __cdecl Camera::getView(void)" (?getView@Camera@@SAAEBU?$mat@$03$03M$0A@@glm@@XZ) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "public: static struct glm::mat<4,4,float,0> const & __cdecl Camera::getProjection(void)" (?getProjection@Camera@@SAAEBU?$mat@$03$03M$0A@@glm@@XZ) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "private: static void __cdecl Camera::update(void)" (?update@Camera@@CAXXZ) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "void __cdecl setupFirstPersonCamera(float)" (?setupFirstPersonCamera@@YAXM@Z) already defined in Shadow.obj; second definition ignored
+Camera.obj : warning LNK4006: "private: static struct glm::vec<3,float,0> Camera::mCameraFront" (?mCameraFront@Camera@@0U?$vec@$02M$0A@@glm@@A) already defined in Shadow.obj; second definition ignored
+Camera.obj : warning LNK4006: "private: static struct glm::vec<3,float,0> const Camera::mUp" (?mUp@Camera@@0U?$vec@$02M$0A@@glm@@B) already defined in Shadow.obj; second definition ignored
+  ShadowEngine.vcxproj -> C:\Users\rbr\source\repos\ShadowEngine\ShadowEngine\..\x86_64\Debug\ShadowEngine.lib

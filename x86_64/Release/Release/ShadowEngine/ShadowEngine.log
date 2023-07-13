@@ -1,0 +1,54 @@
+﻿  Model.cpp
+C:\Users\rbr\source\repos\ShadowEngine\ShadowEngine\src\core\UpdateableContainer.h(37,1): warning C4150: deletion of pointer to incomplete type 'Updateable'; no destructor called
+C:\Users\rbr\source\repos\ShadowEngine\ShadowEngine\src\core\RenderLayer.h(4): message : see declaration of 'Updateable'
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\engine\DynamicsWorld.h(387,31): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\engine\DynamicsWorld.h(395,26): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\HalfEdgeStructure.h(135,32): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\shapes\HeightFieldShape.h(256,104): warning C4244: 'return': conversion from 'double' to 'reactphysics3d::decimal', possible loss of data
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\shapes\HeightFieldShape.h(264,19): warning C4244: 'return': conversion from 'reactphysics3d::decimal' to 'int', possible loss of data
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\TriangleMesh.h(95,34): warning C4267: 'return': conversion from 'size_t' to 'reactphysics3d::uint', possible loss of data
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\rbr\source\repos\ShadowEngine\deps\GLFW\include\GLFW\glfw3.h(98): message : see previous definition of 'APIENTRY'
+C:\Users\rbr\source\repos\ShadowEngine\ShadowEngine\src\core\Model.cpp(275,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rbr\source\repos\ShadowEngine\ShadowEngine\src\core\Model.cpp(701,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rbr\source\repos\ShadowEngine\ShadowEngine\src\core\Model.cpp(709,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\containers\Set.h(502,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\containers\Set.h(449): message : while compiling class template member function 'void reactphysics3d::Set<reactphysics3d::bodyindexpair>::add(const V &)'
+          with
+          [
+              V=reactphysics3d::bodyindexpair
+          ]
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\CollisionDetection.h(265): message : see reference to function template instantiation 'void reactphysics3d::Set<reactphysics3d::bodyindexpair>::add(const V &)' being compiled
+          with
+          [
+              V=reactphysics3d::bodyindexpair
+          ]
+C:\Users\rbr\source\repos\ShadowEngine\deps\ReactPhysics3D\include\collision\CollisionDetection.h(89): message : see reference to class template instantiation 'reactphysics3d::Set<reactphysics3d::bodyindexpair>' being compiled
+opengl32.lib(OPENGL32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in assimp.lib(assimp.dll); second definition ignored
+Camera.obj : warning LNK4006: "private: static struct glm::vec<3,float,0> Camera::mPos" (?mPos@Camera@@0U?$vec@$02M$0A@@glm@@A) already defined in Shadow.obj; second definition ignored
+Camera.obj : warning LNK4006: "private: static struct glm::vec<2,float,0> Camera::mRotation" (?mRotation@Camera@@0U?$vec@$01M$0A@@glm@@A) already defined in Shadow.obj; second definition ignored
+Camera.obj : warning LNK4006: "private: static float Camera::mFov" (?mFov@Camera@@0MA) already defined in Shadow.obj; second definition ignored
+Camera.obj : warning LNK4006: "private: static bool Camera::mLocked" (?mLocked@Camera@@0_NA) already defined in Shadow.obj; second definition ignored
+Camera.obj : warning LNK4006: "private: static struct glm::mat<4,4,float,0> Camera::mView" (?mView@Camera@@0U?$mat@$03$03M$0A@@glm@@A) already defined in Shadow.obj; second definition ignored
+Camera.obj : warning LNK4006: "private: static struct glm::mat<4,4,float,0> Camera::mProjection" (?mProjection@Camera@@0U?$mat@$03$03M$0A@@glm@@A) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "public: static void __cdecl Camera::init(void)" (?init@Camera@@SAXXZ) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "public: static void __cdecl Camera::setPos(struct glm::vec<3,float,0> const &)" (?setPos@Camera@@SAXAEBU?$vec@$02M$0A@@glm@@@Z) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "public: static void __cdecl Camera::changePos(struct glm::vec<3,float,0>)" (?changePos@Camera@@SAXU?$vec@$02M$0A@@glm@@@Z) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "public: static struct glm::vec<3,float,0> __cdecl Camera::getPos(void)" (?getPos@Camera@@SA?AU?$vec@$02M$0A@@glm@@XZ) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "public: static void __cdecl Camera::setRotation(struct glm::vec<2,float,0> const &)" (?setRotation@Camera@@SAXAEBU?$vec@$01M$0A@@glm@@@Z) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "public: static void __cdecl Camera::changeRotation(struct glm::vec<2,float,0>)" (?changeRotation@Camera@@SAXU?$vec@$01M$0A@@glm@@@Z) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "public: static struct glm::vec<2,float,0> __cdecl Camera::getRotation(void)" (?getRotation@Camera@@SA?AU?$vec@$01M$0A@@glm@@XZ) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "public: static void __cdecl Camera::setFOV(float)" (?setFOV@Camera@@SAXM@Z) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "public: static float __cdecl Camera::getFOV(void)" (?getFOV@Camera@@SAMXZ) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "public: static void __cdecl Camera::setLocked(bool)" (?setLocked@Camera@@SAX_N@Z) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "public: static bool __cdecl Camera::getLocked(void)" (?getLocked@Camera@@SA_NXZ) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "public: static struct glm::vec<3,float,0> __cdecl Camera::getForwardsVector(void)" (?getForwardsVector@Camera@@SA?AU?$vec@$02M$0A@@glm@@XZ) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "public: static struct glm::vec<3,float,0> __cdecl Camera::getRightVector(void)" (?getRightVector@Camera@@SA?AU?$vec@$02M$0A@@glm@@XZ) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "public: static struct glm::vec<3,float,0> __cdecl Camera::getUpVector(void)" (?getUpVector@Camera@@SA?AU?$vec@$02M$0A@@glm@@XZ) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "public: static struct glm::mat<4,4,float,0> const & __cdecl Camera::getView(void)" (?getView@Camera@@SAAEBU?$mat@$03$03M$0A@@glm@@XZ) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "public: static struct glm::mat<4,4,float,0> const & __cdecl Camera::getProjection(void)" (?getProjection@Camera@@SAAEBU?$mat@$03$03M$0A@@glm@@XZ) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "private: static void __cdecl Camera::update(void)" (?update@Camera@@CAXXZ) already defined in Shadow.obj; second definition ignored
+Shadow.obj : warning LNK4006: "void __cdecl setupFirstPersonCamera(float)" (?setupFirstPersonCamera@@YAXM@Z) already defined in Shadow.obj; second definition ignored
+Camera.obj : warning LNK4006: "private: static struct glm::vec<3,float,0> Camera::mCameraFront" (?mCameraFront@Camera@@0U?$vec@$02M$0A@@glm@@A) already defined in Shadow.obj; second definition ignored
+Camera.obj : warning LNK4006: "private: static struct glm::vec<3,float,0> const Camera::mUp" (?mUp@Camera@@0U?$vec@$02M$0A@@glm@@B) already defined in Shadow.obj; second definition ignored
+  ShadowEngine.vcxproj -> C:\Users\rbr\source\repos\ShadowEngine\ShadowEngine\..\x86_64\Release\ShadowEngine.lib

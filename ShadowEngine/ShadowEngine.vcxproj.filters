@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="core">
+      <UniqueIdentifier>{4E40957C-3A77-960D-E363-7C10CF79120F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="graphics">
+      <UniqueIdentifier>{36EF08BC-22BC-63C7-4BD5-516F37019955}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\ShadowEngine.h" />
+    <ClInclude Include="src\core\Application.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="src\core\Camera.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="src\core\Core.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="src\core\Cube.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="src\core\Cubemap.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="src\core\Drawable.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="src\core\Input.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="src\core\KeyCodes.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="src\core\Level.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="src\core\Log.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="src\core\Model.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="src\core\Object3D.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="src\core\PhysicalBody.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="src\core\Physics.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="src\core\RenderLayer.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="src\core\Updateable.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="src\core\UpdateableContainer.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="src\core\Utils.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="src\core\Vector.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="src\graphics\Graphics.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="src\graphics\Light.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="src\graphics\LightingMaterial.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="src\graphics\Mesh.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="src\graphics\Renderer.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="src\graphics\Shader.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="src\graphics\ShaderLayout.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="src\graphics\ShaderPrograms.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="src\graphics\ShaderStrings.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="src\graphics\Texture2D.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="src\graphics\VertexArray.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="src\graphics\Window.h">
+      <Filter>graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="src\main.h" />
+    <ClInclude Include="src\ImGui\imgui_impl_glfw.h" />
+    <ClInclude Include="src\ImGui\imgui_impl_opengl3.h" />
+    <ClInclude Include="src\ImGui\ImGuiWrapper.h" />
+    <ClInclude Include="src\ui\Text.h" />
+    <ClInclude Include="src\graphics\Shadow.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\core\Application.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="src\core\Camera.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="src\core\Cube.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="src\core\Cubemap.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="src\core\Input.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="src\core\Model.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="src\core\PhysicalBody.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="src\core\Physics.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="src\core\RenderLayer.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="src\graphics\Light.cpp">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="src\graphics\Mesh.cpp">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="src\graphics\Renderer.cpp">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="src\graphics\Shader.cpp">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="src\graphics\ShaderLayout.cpp">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="src\graphics\ShaderPrograms.cpp">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="src\graphics\Texture2D.cpp">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="src\graphics\VertexArray.cpp">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="src\graphics\Window.cpp">
+      <Filter>graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ImGui\imgui_impl_glfw.cpp" />
+    <ClCompile Include="src\ImGui\imgui_impl_opengl3.cpp" />
+    <ClCompile Include="src\ImGui\ImGuiWrapper.cpp" />
+    <ClCompile Include="src\ui\Text.cpp" />
+    <ClCompile Include="src\graphics\Shadow.cpp" />
+  </ItemGroup>
+</Project>

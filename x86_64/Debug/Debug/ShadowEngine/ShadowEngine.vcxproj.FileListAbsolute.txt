@@ -1,0 +1,2 @@
+C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\Debug\ShadowEngine\ShadowEngine.pdb
+C:\Users\rbr\source\repos\ShadowEngine\x86_64\Debug\ShadowEngine.pdb
